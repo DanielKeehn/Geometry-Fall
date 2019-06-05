@@ -7,7 +7,6 @@ This project can be run in two ways….
 2)	If you have Unity installed, you can also download this whole project and open this game in Unity. This gives you the possibility to modify this game.
 
 ## How to Play
-
 ### Controls:
 Use the arrow keys or WASD to move the cube
 
@@ -20,7 +19,5 @@ Use the arrow keys or WASD to move the cube
 ### Game Modes
 #### Level Mode:
 The mode of the game where players simply need to complete four levels to win. A player needs to reach a desired “goal” which is a target showing how many points a player needs to get in order to complete a level.
-
 #### Endless Mode:
 For this mode, a player tries to get as many points as possible. The same rules apply as Level Mode.
-
