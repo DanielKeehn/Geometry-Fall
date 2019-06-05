@@ -19,8 +19,10 @@ Use the arrow keys or WASD to move the cube
 4)	If a colored cube hits the ground, the player gets a point
 
 ### Game Modes
-Level Mode:
+
+#### Level Mode:
 The mode of the game where players simply need to complete four levels to win. A player needs to reach a desired “goal” which is a target showing how many points a player needs to get in order to complete a level.
-Endless Mode:
+
+#### Endless Mode:
 For this mode, a player tries to get as many points as possible. The same rules apply as Level Mode.
 
