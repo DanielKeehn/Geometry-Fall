@@ -21,3 +21,8 @@ Use the arrow keys or WASD to move the cube
 The mode of the game where players simply need to complete four levels to win. A player needs to reach a desired “goal” which is a target showing how many points a player needs to get in order to complete a level.
 #### Endless Mode:
 For this mode, a player tries to get as many points as possible. The same rules apply as Level Mode.
+
+## In Game Images
+![](TitleScreen.png)
+![](LevelMode.png)
+![](EndlessMode.png)
