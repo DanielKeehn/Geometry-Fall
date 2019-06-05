@@ -23,3 +23,6 @@ The mode of the game where players simply need to complete four levels to win. A
 For this mode, a player tries to get as many points as possible. The same rules apply as Level Mode.
 
 ## In-Game Images
+![](TitleScreen.png)
+![](LevelMode.png)
+![](EndlessMode.png)
